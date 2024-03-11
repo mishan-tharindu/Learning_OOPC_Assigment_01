@@ -25,6 +25,7 @@ public class Man {
     {
         System.out.println("Strat runing !!!");
     }
+    //
 
 }
 
