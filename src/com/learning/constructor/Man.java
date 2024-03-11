@@ -7,6 +7,7 @@ public class Man {
 //        Constructor means same name methode in same Class Name
 //        Constructor calling every first time ib calling Man Object
 //        Constructor hasn't return type
+        //
 
         System.out.println("Man Class Constructor !!!");
     }
