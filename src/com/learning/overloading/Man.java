@@ -23,7 +23,7 @@ public class Man {
     public static void startWalk(int speed)
     {
 
-//        Overload Walk Methode using integer parameter
+//  Overload Walk Methode using integer parameter
 
         System.out.printf("Start walking "+speed+" speed !!!");
     }
